@@ -1,0 +1,11 @@
+*.gem
+Gemfile.lock
+tmp/
+log/
+.bundle/
+vendor/bundle/
+example/tmp/
+example/log/
+example/Gemfile.lock
+example/config/master.key
+example/config/credentials.yml.enc

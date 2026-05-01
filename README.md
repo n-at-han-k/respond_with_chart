@@ -1,5 +1,7 @@
 # respond_with_chart
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/n-at-han-k/respond_with_chart)
+
 A Rails Railtie that lets you serve JSON **and** PNG charts from the same
 controller action. Request `.json` and you get raw data. Request `.png` and
 you get a [Gruff](https://github.com/topfunky/gruff)-rendered chart image.
